@@ -12,8 +12,8 @@ lang: "en"
 # The output of the plugin can be used below, e.g., {{vars.MediumFollowersCountPlugin}}
 plugins:
   # Automatically fetch Medium follower count
-  - MediumFollowersCountPlugin:
-      username: zhgchgli
+#  - MediumFollowersCountPlugin:
+#      username: zhgchgli
   # Automatically fetch Github repo star count
   - GithubRepoStarsCountPlugin:
       - ZhgChgLi/ZMarkupParser
@@ -28,7 +28,7 @@ google_analytics_id:
 title: "plox!"
 
 # Avatar image path
-avatar: "./image.png"
+avatar: "./images/image.png"
 
 # Name section text
 name: "pluto."
