@@ -28,7 +28,7 @@ google_analytics_id:
 title: "plox!"
 
 # Avatar image path
-avatar: "./images/profile.jpeg"
+avatar: "./image.png"
 
 # Name section text
 name: "pluto."
